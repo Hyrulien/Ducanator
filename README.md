@@ -32,7 +32,7 @@ If you like this project and want to support its development, you can buy me a c
 
 1. Download `Ducanator.rar` from `releases` 
 2. Run `WarframeInventoryOverlay.exe`
-3. Click "Reload JSON" to load your inventory (make sure Warframe is running during this processs, this takes about 7secs, click this button everytime theres changes in your inventory i.e you bought/sold/gained new items to populate the overlay with the new data)
+3. Click "Reload JSON" to load your inventory make sure Warframe is running during this processs, this takes about 7secs, click this button everytime theres changes in your inventory i.e you bought/sold/gained new items to populate the overlay with the new data. If an error occurs saying Request failed, just try again.
 
 ### Option 2: Run from Source
 
