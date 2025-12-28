@@ -1,0 +1,758 @@
+{
+  "Acceltra Prime Barrel": {
+    "price": 10,
+    "timestamp": 1766878579.3777604
+  },
+  "Afuris Prime Barrel": {
+    "price": 5,
+    "timestamp": 1766878579.8051136
+  },
+  "Afuris Prime Blueprint": {
+    "price": 5,
+    "timestamp": 1766878580.2338543
+  },
+  "Afuris Prime Receiver": {
+    "price": 35,
+    "timestamp": 1766878580.6721897
+  },
+  "Akarius Prime Blueprint": {
+    "price": 10,
+    "timestamp": 1766878581.113725
+  },
+  "Akbolto Prime Barrel": {
+    "price": 9,
+    "timestamp": 1766878581.5215092
+  },
+  "Akbolto Prime Blueprint": {
+    "price": 5,
+    "timestamp": 1766878581.962148
+  },
+  "Akbolto Prime Receiver": {
+    "price": 28,
+    "timestamp": 1766878582.3820648
+  },
+  "Akjagara Prime Blueprint": {
+    "price": 5,
+    "timestamp": 1766878582.8020961
+  },
+  "Akjagara Prime Link": {
+    "price": 9,
+    "timestamp": 1766878583.241831
+  },
+  "Akjagara Prime Receiver": {
+    "price": 12,
+    "timestamp": 1766878583.7031157
+  },
+  "Aksomati Prime Barrel": {
+    "price": 11,
+    "timestamp": 1766878584.1424873
+  },
+  "Alternox Prime Stock": {
+    "price": 18,
+    "timestamp": 1766878584.5508144
+  },
+  "Ankyros Prime Blade": {
+    "price": 9,
+    "timestamp": 1766878584.97725
+  },
+  "Astilla Prime Barrel": {
+    "price": 19,
+    "timestamp": 1766878585.4307714
+  },
+  "Astilla Prime Receiver": {
+    "price": 7,
+    "timestamp": 1766878585.85763
+  },
+  "Astilla Prime Stock": {
+    "price": 5,
+    "timestamp": 1766878586.2922673
+  },
+  "Atlas Prime Blueprint": {
+    "price": 5,
+    "timestamp": 1766878586.741447
+  },
+  "Ballistica Prime Upper Limb": {
+    "price": 9,
+    "timestamp": 1766878587.628347
+  },
+  "Baza Prime Barrel": {
+    "price": 5,
+    "timestamp": 1766878588.5445473
+  },
+  "Baza Prime Receiver": {
+    "price": 7,
+    "timestamp": 1766878588.9616568
+  },
+  "Boar Prime Barrel": {
+    "price": 10,
+    "timestamp": 1766878589.3646822
+  },
+  "Braton Prime Barrel": {
+    "price": 5,
+    "timestamp": 1766878589.782868
+  },
+  "Braton Prime Blueprint": {
+    "price": 2,
+    "timestamp": 1766878590.2050545
+  },
+  "Braton Prime Receiver": {
+    "price": 5,
+    "timestamp": 1766878590.6376343
+  },
+  "Braton Prime Stock": {
+    "price": 2,
+    "timestamp": 1766878591.139789
+  },
+  "Burston Prime Barrel": {
+    "price": 6,
+    "timestamp": 1766878591.586322
+  },
+  "Burston Prime Blueprint": {
+    "price": 5,
+    "timestamp": 1766878592.019481
+  },
+  "Burston Prime Stock": {
+    "price": 4,
+    "timestamp": 1766878592.4556923
+  },
+  "Caliban Prime Blueprint": {
+    "price": 5,
+    "timestamp": 1766878592.9240758
+  },
+  "Cedo Prime Barrel": {
+    "price": 5,
+    "timestamp": 1766878593.9050744
+  },
+  "Cedo Prime Receiver": {
+    "price": 5,
+    "timestamp": 1766878594.3368535
+  },
+  "Cedo Prime Stock": {
+    "price": 5,
+    "timestamp": 1766878594.7857857
+  },
+  "Cernos Prime Blueprint": {
+    "price": 5,
+    "timestamp": 1766878595.230471
+  },
+  "Cernos Prime Grip": {
+    "price": 9,
+    "timestamp": 1766878595.6583676
+  },
+  "Cernos Prime String": {
+    "price": 8,
+    "timestamp": 1766878596.0972724
+  },
+  "Cernos Prime Upper Limb": {
+    "price": 8,
+    "timestamp": 1766878596.5272694
+  },
+  "Cobra & Crane Prime Guard": {
+    "price": 13,
+    "timestamp": 1766878597.444634
+  },
+  "Corinth Prime Blueprint": {
+    "price": 5,
+    "timestamp": 1766878597.9125853
+  },
+  "Corinth Prime Stock": {
+    "price": 15,
+    "timestamp": 1766878598.3279011
+  },
+  "Dakra Prime Blade": {
+    "price": 12,
+    "timestamp": 1766878598.739348
+  },
+  "Destreza Prime Blueprint": {
+    "price": 5,
+    "timestamp": 1766878599.1506376
+  },
+  "Dethcube Prime Systems": {
+    "price": 8,
+    "timestamp": 1766878599.6179342
+  },
+  "Dual Keres Prime Blueprint": {
+    "price": 14,
+    "timestamp": 1766878600.029624
+  },
+  "Dual Keres Prime Handle": {
+    "price": 7,
+    "timestamp": 1766878600.4544861
+  },
+  "Dual Zoren Prime Handle": {
+    "price": 5,
+    "timestamp": 1766878600.8958838
+  },
+  "Ember Prime Neuroptics": {
+    "price": 10,
+    "timestamp": 1766878601.374662
+  },
+  "Epitaph Prime Receiver": {
+    "price": 10,
+    "timestamp": 1766878601.8283854
+  },
+  "Euphona Prime Barrel": {
+    "price": 8,
+    "timestamp": 1766878602.261684
+  },
+  "Fang Prime Blade": {
+    "price": 3,
+    "timestamp": 1766878602.696631
+  },
+  "Fragor Prime Blueprint": {
+    "price": 13,
+    "timestamp": 1766878603.134748
+  },
+  "Fragor Prime Head": {
+    "price": 10,
+    "timestamp": 1766878603.565858
+  },
+  "Galatine Prime Blade": {
+    "price": 5,
+    "timestamp": 1766878604.0111718
+  },
+  "Gauss Prime Blueprint": {
+    "price": 5,
+    "timestamp": 1766878604.8360517
+  },
+  "Gram Prime Blade": {
+    "price": 5,
+    "timestamp": 1766878606.7931702
+  },
+  "Gram Prime Blueprint": {
+    "price": 8,
+    "timestamp": 1766878607.2519538
+  },
+  "Gram Prime Handle": {
+    "price": 20,
+    "timestamp": 1766878607.6812658
+  },
+  "Grendel Prime Neuroptics": {
+    "price": 5,
+    "timestamp": 1766878608.1907575
+  },
+  "Grendel Prime Systems": {
+    "price": 25,
+    "timestamp": 1766878608.69301
+  },
+  "Guandao Prime Blade": {
+    "price": 8,
+    "timestamp": 1766878609.1328
+  },
+  "Gunsen Prime Blade": {
+    "price": 13,
+    "timestamp": 1766878609.5496583
+  },
+  "Gunsen Prime Blueprint": {
+    "price": 4,
+    "timestamp": 1766878609.9728458
+  },
+  "Gyre Prime Blueprint": {
+    "price": 15,
+    "timestamp": 1766878610.3927598
+  },
+  "Harrow Prime Chassis": {
+    "price": 10,
+    "timestamp": 1766878611.8081648
+  },
+  "Harrow Prime Neuroptics": {
+    "price": 9,
+    "timestamp": 1766878612.2328792
+  },
+  "Harrow Prime Systems": {
+    "price": 35,
+    "timestamp": 1766878612.6869776
+  },
+  "Helios Prime Systems": {
+    "price": 10,
+    "timestamp": 1766878613.1138775
+  },
+  "Hildryn Prime Blueprint": {
+    "price": 25,
+    "timestamp": 1766878613.5520008
+  },
+  "Hildryn Prime Neuroptics": {
+    "price": 8,
+    "timestamp": 1766878614.0845435
+  },
+  "Hildryn Prime Systems": {
+    "price": 5,
+    "timestamp": 1766878614.5728836
+  },
+  "Inaros Prime Blueprint": {
+    "price": 10,
+    "timestamp": 1766878615.016292
+  },
+  "Ivara Prime Blueprint": {
+    "price": 9,
+    "timestamp": 1766878615.4652464
+  },
+  "Kestrel Prime Blade": {
+    "price": 9,
+    "timestamp": 1766878615.9010172
+  },
+  "Kestrel Prime Blueprint": {
+    "price": 7,
+    "timestamp": 1766878616.3410995
+  },
+  "Kogake Prime Boot": {
+    "price": 9,
+    "timestamp": 1766878616.7789092
+  },
+  "Kompressa Prime Receiver": {
+    "price": 8,
+    "timestamp": 1766878617.2246585
+  },
+  "Larkspur Prime Barrel": {
+    "price": 30,
+    "timestamp": 1766878617.652005
+  },
+  "Larkspur Prime Blueprint": {
+    "price": 5,
+    "timestamp": 1766878618.0802052
+  },
+  "Larkspur Prime Receiver": {
+    "price": 7,
+    "timestamp": 1766878618.4976401
+  },
+  "Latron Prime Barrel": {
+    "price": 15,
+    "timestamp": 1766878618.9289832
+  },
+  "Lavos Prime Blueprint": {
+    "price": 9,
+    "timestamp": 1766878619.3693829
+  },
+  "Lex Prime Barrel": {
+    "price": 4,
+    "timestamp": 1766878619.8153841
+  },
+  "Lex Prime Blueprint": {
+    "price": 3,
+    "timestamp": 1766878620.2448332
+  },
+  "Lex Prime Receiver": {
+    "price": 4,
+    "timestamp": 1766878620.6562538
+  },
+  "Magnus Prime Blueprint": {
+    "price": 8,
+    "timestamp": 1766878621.4983242
+  },
+  "Magnus Prime Receiver": {
+    "price": 6,
+    "timestamp": 1766878621.9188771
+  },
+  "Mesa Prime Blueprint": {
+    "price": 9,
+    "timestamp": 1766878622.3383577
+  },
+  "Nagantaka Prime Stock": {
+    "price": 8,
+    "timestamp": 1766878623.6336176
+  },
+  "Nautilus Prime Blueprint": {
+    "price": 10,
+    "timestamp": 1766878624.1087346
+  },
+  "Nautilus Prime Carapace": {
+    "price": 6,
+    "timestamp": 1766878624.5160937
+  },
+  "Nautilus Prime Cerebrum": {
+    "price": 21,
+    "timestamp": 1766878624.9536085
+  },
+  "Nautilus Prime Systems": {
+    "price": 4,
+    "timestamp": 1766878625.4278505
+  },
+  "Nidus Prime Blueprint": {
+    "price": 8,
+    "timestamp": 1766878626.7616808
+  },
+  "Nidus Prime Neuroptics": {
+    "price": 35,
+    "timestamp": 1766878627.6452024
+  },
+  "Nikana Prime Blueprint": {
+    "price": 9,
+    "timestamp": 1766878628.5219562
+  },
+  "Ninkondi Prime Blueprint": {
+    "price": 5,
+    "timestamp": 1766878628.9691083
+  },
+  "Ninkondi Prime Chain": {
+    "price": 5,
+    "timestamp": 1766878629.3918655
+  },
+  "Ninkondi Prime Handle": {
+    "price": 20,
+    "timestamp": 1766878629.8123434
+  },
+  "Odonata Prime Blueprint": {
+    "price": 8,
+    "timestamp": 1766878630.7450454
+  },
+  "Pangolin Prime Handle": {
+    "price": 8,
+    "timestamp": 1766878631.597528
+  },
+  "Paris Prime Blueprint": {
+    "price": 3,
+    "timestamp": 1766878632.0182571
+  },
+  "Paris Prime Grip": {
+    "price": 4,
+    "timestamp": 1766878632.4702501
+  },
+  "Paris Prime Lower Limb": {
+    "price": 5,
+    "timestamp": 1766878632.8861842
+  },
+  "Paris Prime Upper Limb": {
+    "price": 2,
+    "timestamp": 1766878633.3199792
+  },
+  "Phantasma Prime Blueprint": {
+    "price": 5,
+    "timestamp": 1766878633.7318597
+  },
+  "Phantasma Prime Receiver": {
+    "price": 5,
+    "timestamp": 1766878634.1471505
+  },
+  "Protea Prime Blueprint": {
+    "price": 3,
+    "timestamp": 1766878634.5831037
+  },
+  "Reaper Prime Handle": {
+    "price": 13,
+    "timestamp": 1766878636.0493915
+  },
+  "Rubico Prime Barrel": {
+    "price": 8,
+    "timestamp": 1766878637.0097733
+  },
+  "Rubico Prime Receiver": {
+    "price": 5,
+    "timestamp": 1766878637.4318483
+  },
+  "Rubico Prime Stock": {
+    "price": 9,
+    "timestamp": 1766878637.8573847
+  },
+  "Sagek Prime Blueprint": {
+    "price": null,
+    "timestamp": 1766878122.3727398
+  },
+  "Saryn Prime Blueprint": {
+    "price": 20,
+    "timestamp": 1766878638.2785656
+  },
+  "Scourge Prime Blueprint": {
+    "price": 15,
+    "timestamp": 1766878639.125421
+  },
+  "Sevagoth Prime Blueprint": {
+    "price": 5,
+    "timestamp": 1766878639.5771317
+  },
+  "Sevagoth Prime Neuroptics": {
+    "price": 2,
+    "timestamp": 1766878640.0523076
+  },
+  "Sevagoth Prime Systems": {
+    "price": 4,
+    "timestamp": 1766878640.5488179
+  },
+  "Shade Prime Blueprint": {
+    "price": 5,
+    "timestamp": 1766878641.0249555
+  },
+  "Shade Prime Carapace": {
+    "price": 24,
+    "timestamp": 1766878641.4615548
+  },
+  "Shade Prime Systems": {
+    "price": 5,
+    "timestamp": 1766878641.8892386
+  },
+  "Stradavar Prime Receiver": {
+    "price": 6,
+    "timestamp": 1766878642.338112
+  },
+  "Strun Prime Barrel": {
+    "price": 9,
+    "timestamp": 1766878642.7746341
+  },
+  "Strun Prime Receiver": {
+    "price": 7,
+    "timestamp": 1766878643.2116156
+  },
+  "Strun Prime Stock": {
+    "price": 9,
+    "timestamp": 1766878643.6133962
+  },
+  "Sybaris Prime Receiver": {
+    "price": 10,
+    "timestamp": 1766878644.0566494
+  },
+  "Tatsu Prime Blade": {
+    "price": 5,
+    "timestamp": 1766878644.4813893
+  },
+  "Tatsu Prime Blueprint": {
+    "price": 4,
+    "timestamp": 1766878644.929816
+  },
+  "Tekko Prime Blade": {
+    "price": 25,
+    "timestamp": 1766878645.362408
+  },
+  "Tekko Prime Blueprint": {
+    "price": 5,
+    "timestamp": 1766878645.7984335
+  },
+  "Tekko Prime Gauntlet": {
+    "price": 9,
+    "timestamp": 1766878646.2354062
+  },
+  "Tenora Prime Blueprint": {
+    "price": 5,
+    "timestamp": 1766878646.728533
+  },
+  "Tiberon Prime Blueprint": {
+    "price": 5,
+    "timestamp": 1766878647.1709476
+  },
+  "Tiberon Prime Stock": {
+    "price": 20,
+    "timestamp": 1766878647.6070366
+  },
+  "Tipedo Prime Ornament": {
+    "price": 13,
+    "timestamp": 1766878648.0439725
+  },
+  "Titania Prime Blueprint": {
+    "price": 10,
+    "timestamp": 1766878648.5137446
+  },
+  "Valkyr Prime Blueprint": {
+    "price": 10,
+    "timestamp": 1766878648.9910796
+  },
+  "Valkyr Prime Systems": {
+    "price": 20,
+    "timestamp": 1766878649.4496608
+  },
+  "Vasto Prime Receiver": {
+    "price": 9,
+    "timestamp": 1766878649.861609
+  },
+  "Velox Prime Barrel": {
+    "price": 10,
+    "timestamp": 1766878651.1668632
+  },
+  "Venato Prime Blueprint": {
+    "price": 4,
+    "timestamp": 1766878651.611676
+  },
+  "Venato Prime Handle": {
+    "price": 5,
+    "timestamp": 1766878652.0339186
+  },
+  "Venka Prime Blades": {
+    "price": 9,
+    "timestamp": 1766878652.4733913
+  },
+  "Venka Prime Blueprint": {
+    "price": 5,
+    "timestamp": 1766878652.9127693
+  },
+  "Volnus Prime Blueprint": {
+    "price": 4,
+    "timestamp": 1766878653.331056
+  },
+  "Wisp Prime Blueprint": {
+    "price": 30,
+    "timestamp": 1766878654.2302217
+  },
+  "Wukong Prime Blueprint": {
+    "price": 40,
+    "timestamp": 1766878655.1493828
+  },
+  "Yareli Prime Blueprint": {
+    "price": 5,
+    "timestamp": 1766878657.1956322
+  },
+  "Zephyr Prime Blueprint": {
+    "price": 15,
+    "timestamp": 1766878659.1149533
+  },
+  "Zephyr Prime Chassis": {
+    "price": 8,
+    "timestamp": 1766878659.5463274
+  },
+  "Zhuge Prime Blueprint": {
+    "price": 5,
+    "timestamp": 1766878660.4015841
+  },
+  "Zhuge Prime Receiver": {
+    "price": 9,
+    "timestamp": 1766878660.846161
+  },
+  "Zylok Prime Barrel": {
+    "price": 5,
+    "timestamp": 1766878661.2733564
+  },
+  "Galariak Prime Blade": {
+    "price": null,
+    "timestamp": 1766878086.9082727
+  },
+  "Sagek Prime Barrel": {
+    "price": null,
+    "timestamp": 1766878121.9929783
+  },
+  "Sagek Prime Receiver": {
+    "price": null,
+    "timestamp": 1766878122.7622428
+  },
+  "Atlas Prime Systems": {
+    "price": 5,
+    "timestamp": 1766878587.1929555
+  },
+  "Baruuk Prime Chassis": {
+    "price": 5,
+    "timestamp": 1766878588.1320686
+  },
+  "Caliban Prime Chassis": {
+    "price": 5,
+    "timestamp": 1766878593.4639552
+  },
+  "Chroma Prime Chassis": {
+    "price": 9,
+    "timestamp": 1766878596.9834473
+  },
+  "Gara Prime Neuroptics": {
+    "price": 8,
+    "timestamp": 1766878604.4344125
+  },
+  "Gauss Prime Chassis": {
+    "price": 5,
+    "timestamp": 1766878605.3333364
+  },
+  "Gauss Prime Neuroptics": {
+    "price": 10,
+    "timestamp": 1766878605.8500435
+  },
+  "Gauss Prime Systems": {
+    "price": 20,
+    "timestamp": 1766878606.3679285
+  },
+  "Gyre Prime Chassis": {
+    "price": 25,
+    "timestamp": 1766878610.8870397
+  },
+  "Gyre Prime Neuroptics": {
+    "price": 20,
+    "timestamp": 1766878611.3830426
+  },
+  "Limbo Prime Systems": {
+    "price": 5,
+    "timestamp": 1766878621.0747118
+  },
+  "Mesa Prime Neuroptics": {
+    "price": 25,
+    "timestamp": 1766878622.7669895
+  },
+  "Mesa Prime Systems": {
+    "price": 12,
+    "timestamp": 1766878623.19907
+  },
+  "Nekros Prime Neuroptics": {
+    "price": 20,
+    "timestamp": 1766878625.8631804
+  },
+  "Nezha Prime Chassis": {
+    "price": 25,
+    "timestamp": 1766878626.3129945
+  },
+  "Nidus Prime Chassis": {
+    "price": 25,
+    "timestamp": 1766878627.2004104
+  },
+  "Nidus Prime Systems": {
+    "price": 5,
+    "timestamp": 1766878628.084918
+  },
+  "Octavia Prime Neuroptics": {
+    "price": 6,
+    "timestamp": 1766878630.2668345
+  },
+  "Odonata Prime Systems": {
+    "price": 9,
+    "timestamp": 1766878631.1550257
+  },
+  "Protea Prime Neuroptics": {
+    "price": 4,
+    "timestamp": 1766878635.0780587
+  },
+  "Protea Prime Systems": {
+    "price": 11,
+    "timestamp": 1766878635.609774
+  },
+  "Revenant Prime Chassis": {
+    "price": 7,
+    "timestamp": 1766878636.5376873
+  },
+  "Saryn Prime Neuroptics": {
+    "price": 14,
+    "timestamp": 1766878638.6908906
+  },
+  "Vauban Prime Chassis": {
+    "price": 24,
+    "timestamp": 1766878650.294879
+  },
+  "Vauban Prime Neuroptics": {
+    "price": 35,
+    "timestamp": 1766878650.745406
+  },
+  "Volt Prime Chassis": {
+    "price": 10,
+    "timestamp": 1766878653.7729785
+  },
+  "Wisp Prime Chassis": {
+    "price": 15,
+    "timestamp": 1766878654.7158692
+  },
+  "Xaku Prime Chassis": {
+    "price": 5,
+    "timestamp": 1766878655.6819456
+  },
+  "Xaku Prime Neuroptics": {
+    "price": 3,
+    "timestamp": 1766878656.2351425
+  },
+  "Xaku Prime Systems": {
+    "price": 6,
+    "timestamp": 1766878656.748069
+  },
+  "Yareli Prime Chassis": {
+    "price": 5,
+    "timestamp": 1766878657.682468
+  },
+  "Yareli Prime Neuroptics": {
+    "price": 18,
+    "timestamp": 1766878658.1994655
+  },
+  "Yareli Prime Systems": {
+    "price": 25,
+    "timestamp": 1766878658.67985
+  },
+  "Zephyr Prime Neuroptics": {
+    "price": 7,
+    "timestamp": 1766878659.97672
+  }
+}
