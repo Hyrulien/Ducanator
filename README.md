@@ -2,6 +2,12 @@
 
 A Warframe Prime inventory management tool that tracks your Prime parts, calculates ducat values, and fetches market prices.
 
+## ❤️ Support
+
+If you like this project and want to support its development, you can buy me a coffee ☕ . All money raised goes towards my tuition and further projects.  
+
+👉 **Ko-fi:** https://ko-fi.com/hyru
+
 ## Features
 
 - **Prime Inventory Tracking**: View all your Prime parts organized by category
@@ -26,13 +32,13 @@ A Warframe Prime inventory management tool that tracks your Prime parts, calcula
 
 1. Download `Ducanator.rar` from `releases` 
 2. Run `WarframeInventoryOverlay.exe`
-3. Click "Reload JSON" to load your inventory (this takes about 7-10secs, click this button everytime theres changes in your inventory i.e you bought/sold/gained new items to populate the overlay with the new data)
+3. Click "Reload JSON" to load your inventory (make sure Warframe is running during this processs, this takes about 7secs, click this button everytime theres changes in your inventory i.e you bought/sold/gained new items to populate the overlay with the new data)
 
 ### Option 2: Run from Source
 
 1. Clone or download this repository
 2. Ensure Python 3.6+ is installed
-3. No additional packages required (uses only Python standard library)
+3. No additional packages required
 4. Run: `python main.py`
 
 ## Usage
@@ -109,7 +115,8 @@ A Warframe Prime inventory management tool that tracks your Prime parts, calcula
 - **Marked Items**: Saved in `marked_items.json` and persist between sessions
 - **Price Cache**: Stored in `cachedData/price_cache.json` (1 hour expiry)
 - **Price Fluctuation** Do not rely on the platinum prices listed even if you manually refetch there can be discrepancies between what the API call fetches and whats actually available on WFM. To be sure, double check high value items yourself on WFM.
+- **Will I get banned for using this?** As with any 3rd Party application, caution is advised and I won't be held responsible for any account infringements or penalties that may incur from using this program, however my program does not tamper with any warframe files or inject itself into the game hence why you should be fine using this.
 
 ## License
 
-Free to use and modify for personal use.
+Free to use and modify for personal use only.
