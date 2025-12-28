@@ -18,16 +18,15 @@ A Warframe Prime inventory management tool that tracks your Prime parts, calcula
 ### For Development
 
 - Python 3.6 or higher
-- tkinter (usually included with Python)
+- tkinter 
 
 ## Installation
 
 ### Option 1: Use the Executable (Recommended)
 
-1. Download `WarframeInventoryOverlay.exe` from the `dist/` folder
-2. Place `warframe-api-helper.exe` in the `cachedData/` folder
-3. Run `WarframeInventoryOverlay.exe`
-4. Click "Reload JSON" to load your inventory
+1. Download `Ducanator.rar` from `releases` 
+2. Run `WarframeInventoryOverlay.exe`
+3. Click "Reload JSON" to load your inventory (this takes about 7-10secs, click this button everytime theres changes in your inventory i.e you bought/sold/gained new items to populate the overlay with the new data)
 
 ### Option 2: Run from Source
 
