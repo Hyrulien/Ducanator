@@ -2,6 +2,10 @@
 
 A Warframe Prime inventory management tool that tracks your Prime parts, calculates ducat values, and fetches market prices.
 
+## Disclaimer: 
+
+This is theoretically bannable, because it reads the memory of the game to get your accountID & nonce to then ping warframe endpoints for your inventory data, but due to the nature of how long `warframe-api-helper.exe` has been around (made by Sainan) https://github.com/Sainan/warframe-api-helper, I feel its safe enough to use, as no bans with correlation to using this have yet been reported. As usual though, use at your own risk, I won't be held accountable for any type of sanctions imbued upon your account in correlation with using my program.
+
 ## ❤️ Support
 
 If you like this project and want to support its development, you can buy me a coffee ☕ . All money raised goes towards my tuition and further projects.  
@@ -47,7 +51,7 @@ If you like this project and want to support its development, you can buy me a c
 
 1. **Generate Inventory Data**:
    - Click "🔄 Reload JSON" button
-   - This runs `warframe-api-helper.exe` to generate `inventory.json`
+   - This runs `warframe-api-helper.exe` to generate `inventory.json` 
    - Wait ~7 seconds for automatic refresh
 
 2. **Load Category Files**:
@@ -115,7 +119,7 @@ If you like this project and want to support its development, you can buy me a c
 - **Marked Items**: Saved in `marked_items.json` and persist between sessions
 - **Price Cache**: Stored in `cachedData/price_cache.json` (1 hour expiry)
 - **Price Fluctuation** Do not rely on the platinum prices listed even if you manually refetch there can be discrepancies between what the API call fetches and whats actually available on WFM. To be sure, double check high value items yourself on WFM.
-- **Will I get banned for using this?** As with any 3rd Party application, caution is advised and I won't be held responsible for any account infringements or penalties that may incur from using this program, however my program does not tamper with any warframe files or inject itself into the game hence why you should be fine using this.
+- **Will I get banned for using this?** As with any 3rd Party application, caution is advised and I won't be held responsible for any account sanctions or penalties that may incur from using this program
 
 ## License
 
